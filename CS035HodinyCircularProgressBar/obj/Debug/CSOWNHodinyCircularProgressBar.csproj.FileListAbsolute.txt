@@ -1,0 +1,14 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\bin\Debug\CSOWNHodinyCircularProgressBar.exe.config
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\bin\Debug\CSOWNHodinyCircularProgressBar.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\bin\Debug\CSOWNHodinyCircularProgressBar.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\bin\Debug\CircularProgressBar.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\bin\Debug\WinFormAnimation.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\bin\Debug\CircularProgressBar.xml
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\obj\Debug\CSOWNHodinyCircularProgressBar.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\obj\Debug\CSOWNHodinyCircularProgressBar.HodinyCircularProgressBarForm.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\obj\Debug\CSOWNHodinyCircularProgressBar.Properties.Resources.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\obj\Debug\CSOWNHodinyCircularProgressBar.csproj.GenerateResource.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\obj\Debug\CSOWNHodinyCircularProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\obj\Debug\CSOWNHodinyCircularProgressBar.csproj.CopyComplete
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\obj\Debug\CSOWNHodinyCircularProgressBar.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNHodinyCircularProgressBar\CSOWNHodinyCircularProgressBar\obj\Debug\CSOWNHodinyCircularProgressBar.pdb
